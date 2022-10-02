@@ -8,7 +8,7 @@ I'm Front-end developer and i like to try understand how computer works. I love 
 </div>  
 
 <h2>Bubble-background</h2>
-
+Bubble background is a tiny library that make the bubble effect in a html canvas, running in javascript this code is compressed in just one class and your use don't take a few of code lines.
 
 <h1>These is my status</h1>
 <div align>
