@@ -2,6 +2,7 @@
   in a college of computer science trying to learn more about technologies and apply it in a job on the future.
   
   <div align="center">
+    <img src="./cat heart glasses.png">
     <p>My Github status</p>
     <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Aninha-Moraes&theme=tokyonight&show_icons=true">
     <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninha-Moraes&theme=tokyonight&layout=compact">
